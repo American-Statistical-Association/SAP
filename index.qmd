@@ -6,7 +6,7 @@ title: "Statistical Advisory Panel"
 
 ## Strengthening the Science of Clinical Research
 
-**Nature Medicine** is the premier journal within the Nature Research Portfolio for translational and clinical research. To enhance the scientific rigor of the clinical studies it publishes and streamline the review process, Nature Medicine has established a formal **Statistical Advisory Panel (SAP)**.
+**Nature Medicine** is the premier journal within the Nature Research Portfolio for translational and clinical research. To enhance the scientific rigor of the clinical studies it publishes and streamline the review process, Nature Medicine has established a formal [Statistical Advisory Panel (SAP)](https://www.nature.com/nm/statistics-advisory-panel){target="_blank"}.
 
 
 ::: {.callout-note}
@@ -32,22 +32,22 @@ The SAP covers four key therapeutic areas:
 ::: {layout-ncol=2}
 
 ::: {.card}
-### Infectious Diseases
+**Infectious Diseases**
 Statistical review of clinical trials in infectious disease research.
 :::
 
 ::: {.card}
-### Metabolic Diseases
+**Metabolic Diseases**
 Statistical review of clinical trials in metabolic disease research.
 :::
 
 ::: {.card}
-### Oncology
+**Oncology**
 Statistical review of clinical trials in cancer research.
 :::
 
 ::: {.card}
-### Neurology & Psychiatry
+**Neurology & Psychiatry**
 Statistical review of clinical trials in neurological and psychiatric research.
 :::
 
