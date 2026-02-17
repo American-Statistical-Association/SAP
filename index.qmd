@@ -1,0 +1,58 @@
+---
+title: "Statistical Advisory Panel"
+---
+
+![](ASA.png){width=400 fig-align="center"}
+
+## Strengthening the Science of Clinical Research
+
+**Nature Medicine** is the premier journal within the Nature Research Portfolio for translational and clinical research. To enhance the scientific rigor of the clinical studies it publishes and streamline the review process, Nature Medicine has established a formal **Statistical Advisory Panel (SAP)**.
+
+
+::: {.callout-note}
+## Read More
+Read an [interview text](https://magazine.amstat.org/blog/2025/03/03/nmtranscript/){target="_blank"} to learn about the vision behind this initiative.
+:::
+
+## How the Panel Works
+
+Each SAP member serves a **1-year term** with thee possibility for renewal. Each advisor will be responsible for reviewing **6–7 clinical trial manuscripts per year**. These reviews may include expedited ("fast track") reviews at the discretion of the member.
+
+## Eligibility Requirements
+
+Statistical Advisors must meet the following criteria:
+
+- **ASA Membership**: Editors must be current members of the American Statistical Association.
+- **Experience**: A minimum of **five years' experience** in medicine and public health science in academia.
+
+## Focus Areas
+
+The SAP covers four key therapeutic areas:
+
+::: {layout-ncol=2}
+
+::: {.card}
+### Infectious Diseases
+Statistical review of clinical trials in infectious disease research.
+:::
+
+::: {.card}
+### Metabolic Diseases
+Statistical review of clinical trials in metabolic disease research.
+:::
+
+::: {.card}
+### Oncology
+Statistical review of clinical trials in cancer research.
+:::
+
+::: {.card}
+### Neurology & Psychiatry
+Statistical review of clinical trials in neurological and psychiatric research.
+:::
+
+:::
+
+## Apply
+
+Interested in serving on the Statistical Advisory Panel? [Submit your application here](https://amstat.jotform.com/team/cross-function/SAP-application){target="_blank"}.
