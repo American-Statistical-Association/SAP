@@ -33,21 +33,25 @@ The SAP covers four key therapeutic areas:
 
 ::: {.card}
 **Infectious Diseases**
+
 Statistical review of clinical trials in infectious disease research.
 :::
 
 ::: {.card}
 **Metabolic Diseases**
+
 Statistical review of clinical trials in metabolic disease research.
 :::
 
 ::: {.card}
 **Oncology**
+
 Statistical review of clinical trials in cancer research.
 :::
 
 ::: {.card}
 **Neurology & Psychiatry**
+
 Statistical review of clinical trials in neurological and psychiatric research.
 :::
 
