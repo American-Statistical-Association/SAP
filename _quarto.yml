@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Statistical Advisory Panel"
+  site-url: https://American-Statistical-Association.github.io/SAP/
 
 format:
   html:
